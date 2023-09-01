@@ -10,6 +10,7 @@ const createWindow = () => {
 
   // 加载 index.html
   mainWindow.loadURL("https://search.tiangong.cn");
+  // mainWindow.loadFile("index.html");
 };
 
 app.whenReady().then(() => {
