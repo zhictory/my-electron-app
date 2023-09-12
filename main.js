@@ -4,12 +4,12 @@ const { app, BrowserWindow } = require("electron");
 const createWindow = () => {
   // 创建浏览窗口
   const mainWindow = new BrowserWindow({
-    width: 800,
-    height: 600,
+    width: 1100,
+    height: 960,
   });
 
   // 加载 index.html
-  mainWindow.loadURL("https://search.tiangong.cn");
+  mainWindow.loadURL("http://127.0.0.1:8899");
   // mainWindow.loadFile("index.html");
 };
 
