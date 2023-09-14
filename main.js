@@ -9,7 +9,7 @@ const createWindow = () => {
   });
 
   // 加载 index.html
-  mainWindow.loadURL("http://127.0.0.1:8899");
+  mainWindow.loadURL("https://www.tapd.cn/49891919/markdown_wikis/show/#1149891919001000104");
   // mainWindow.loadFile("index.html");
 };
 
