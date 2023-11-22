@@ -1,7 +1,6 @@
 module.exports = {
   packagerConfig: {
     asar: true,
-    icon: "C:\\Users\\Administrator\\Downloads\\091414203887_0color-logo-tapd.ico",
   },
   rebuildConfig: {},
   makers: [
