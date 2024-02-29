@@ -1,9 +1,9 @@
 {
-  "name": "upload-thing",
+  "name": "notes",
   "version": "1.0.0",
   "description": "Hello World!",
   "main": "main.js",
-  "author": "Randolf",
+  "author": "Randolf Zhang",
   "license": "MIT",
   "scripts": {
     "start": "electron-forge start",

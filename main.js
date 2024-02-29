@@ -9,7 +9,7 @@ const createWindow = () => {
   });
 
   // 加载 index.html
-  mainWindow.loadURL("http://47.106.93.238:3000/");
+  mainWindow.loadURL("http://localhost:3000/");
   // mainWindow.loadFile("index.html");
 };
 
